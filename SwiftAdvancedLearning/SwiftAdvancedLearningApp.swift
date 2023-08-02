@@ -11,7 +11,9 @@ import SwiftUI
 struct SwiftAdvancedLearningApp: App {
     var body: some Scene {
         WindowGroup {
-            ButtonStyleBootCamp()
+            //GeometryEffectBootCamp()
+            // MatchedGeometryEffectExample2()
+            GenericBootCamp()
         }
     }
 }
