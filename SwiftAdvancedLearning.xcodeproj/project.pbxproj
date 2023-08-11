@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		CD24A1252A861F6400E69C2C /* AdvancedCombineBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD24A1242A861F6400E69C2C /* AdvancedCombineBootCamp.swift */; };
 		CDAB31DF2A7B98880089B5B9 /* PreferenceKeyBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDAB31DE2A7B98880089B5B9 /* PreferenceKeyBootCamp.swift */; };
 		CDAB31E22A7B9DF40089B5B9 /* GeometryPreference.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDAB31E12A7B9DF40089B5B9 /* GeometryPreference.swift */; };
 		CDAB31E52A7BC1730089B5B9 /* AppTabBarView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDAB31E42A7BC1730089B5B9 /* AppTabBarView.swift */; };
@@ -65,6 +66,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		CD24A1242A861F6400E69C2C /* AdvancedCombineBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AdvancedCombineBootCamp.swift; sourceTree = "<group>"; };
 		CDAB31DE2A7B98880089B5B9 /* PreferenceKeyBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PreferenceKeyBootCamp.swift; sourceTree = "<group>"; };
 		CDAB31E12A7B9DF40089B5B9 /* GeometryPreference.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GeometryPreference.swift; sourceTree = "<group>"; };
 		CDAB31E42A7BC1730089B5B9 /* AppTabBarView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppTabBarView.swift; sourceTree = "<group>"; };
@@ -224,6 +226,7 @@
 				CDAB31FF2A80E21F0089B5B9 /* ProtocolsBootCamp.swift */,
 				CDAB32012A80F7280089B5B9 /* DependencyInjectionBootCamp.swift */,
 				CDFC737D2A84C08C00EE70D5 /* UITestingBootCampView.swift */,
+				CD24A1242A861F6400E69C2C /* AdvancedCombineBootCamp.swift */,
 				CDAB32032A814EE80089B5B9 /* TestingBootCamp */,
 				CDAB31E02A7B9DA20089B5B9 /* PreferenceKey */,
 				CDAB31E32A7BC1530089B5B9 /* CustomTabBar */,
@@ -395,6 +398,7 @@
 				CDB9D8AE2A7A67EB00D0B838 /* GeometryEffectBootCamp.swift in Sources */,
 				CDAB31E22A7B9DF40089B5B9 /* GeometryPreference.swift in Sources */,
 				CDAB31E52A7BC1730089B5B9 /* AppTabBarView.swift in Sources */,
+				CD24A1252A861F6400E69C2C /* AdvancedCombineBootCamp.swift in Sources */,
 				CDAB32002A80E21F0089B5B9 /* ProtocolsBootCamp.swift in Sources */,
 				CDAB31F22A7C13FD0089B5B9 /* CustomNavBarView.swift in Sources */,
 				CDB9D8B22A7A716C00D0B838 /* CustomCurveBootCamp.swift in Sources */,
