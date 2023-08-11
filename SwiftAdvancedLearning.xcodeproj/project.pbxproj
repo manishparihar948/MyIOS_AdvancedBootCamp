@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		CD24A1252A861F6400E69C2C /* AdvancedCombineBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD24A1242A861F6400E69C2C /* AdvancedCombineBootCamp.swift */; };
+		CD24A1272A863EB100E69C2C /* FutureBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD24A1262A863EB100E69C2C /* FutureBootCamp.swift */; };
 		CDAB31DF2A7B98880089B5B9 /* PreferenceKeyBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDAB31DE2A7B98880089B5B9 /* PreferenceKeyBootCamp.swift */; };
 		CDAB31E22A7B9DF40089B5B9 /* GeometryPreference.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDAB31E12A7B9DF40089B5B9 /* GeometryPreference.swift */; };
 		CDAB31E52A7BC1730089B5B9 /* AppTabBarView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDAB31E42A7BC1730089B5B9 /* AppTabBarView.swift */; };
@@ -67,6 +68,7 @@
 
 /* Begin PBXFileReference section */
 		CD24A1242A861F6400E69C2C /* AdvancedCombineBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AdvancedCombineBootCamp.swift; sourceTree = "<group>"; };
+		CD24A1262A863EB100E69C2C /* FutureBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FutureBootCamp.swift; sourceTree = "<group>"; };
 		CDAB31DE2A7B98880089B5B9 /* PreferenceKeyBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PreferenceKeyBootCamp.swift; sourceTree = "<group>"; };
 		CDAB31E12A7B9DF40089B5B9 /* GeometryPreference.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GeometryPreference.swift; sourceTree = "<group>"; };
 		CDAB31E42A7BC1730089B5B9 /* AppTabBarView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppTabBarView.swift; sourceTree = "<group>"; };
@@ -227,6 +229,7 @@
 				CDAB32012A80F7280089B5B9 /* DependencyInjectionBootCamp.swift */,
 				CDFC737D2A84C08C00EE70D5 /* UITestingBootCampView.swift */,
 				CD24A1242A861F6400E69C2C /* AdvancedCombineBootCamp.swift */,
+				CD24A1262A863EB100E69C2C /* FutureBootCamp.swift */,
 				CDAB32032A814EE80089B5B9 /* TestingBootCamp */,
 				CDAB31E02A7B9DA20089B5B9 /* PreferenceKey */,
 				CDAB31E32A7BC1530089B5B9 /* CustomTabBar */,
@@ -426,6 +429,7 @@
 				CDC396492A7A4682007B5FA8 /* ViewModifierBootCamp.swift in Sources */,
 				CDAB31ED2A7BC8C90089B5B9 /* TabBarItemsPreferenceKey.swift in Sources */,
 				CDAB32052A814F140089B5B9 /* UnitTestingBootCampView.swift in Sources */,
+				CD24A1272A863EB100E69C2C /* FutureBootCamp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
