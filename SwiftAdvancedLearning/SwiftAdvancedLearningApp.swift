@@ -45,7 +45,8 @@ struct SwiftAdvancedLearningApp: App {
             //GeometryEffectBootCamp()
             // MatchedGeometryEffectExample2()
             //UITestingBootCampView(currentUserIsSignedIn: currentUserIsSignedIn)
-            AppStorageBootcamp()
+            // AppStorageBootcamp()
+            IntroView()
         }
     }
 }
